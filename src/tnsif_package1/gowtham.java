@@ -1,14 +1,10 @@
-package tnsss;
+package tnsif_package1;
 
-public class demo {
-    
-    
+public class gowtham {
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 	}
 
-}
-class hello{ 
-	
 }
