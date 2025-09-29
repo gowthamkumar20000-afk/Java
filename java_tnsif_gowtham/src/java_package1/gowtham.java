@@ -1,4 +1,4 @@
-package java_package1;
+package src.java_package1;
 
 public class gowtham {
 	public static void main(String[]args) { 
