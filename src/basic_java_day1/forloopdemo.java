@@ -9,6 +9,7 @@ public class forloopdemo {
 			System.out.print("Value of i:");
 			System.out.println(i);
 		}
+		
 
 	}
 
